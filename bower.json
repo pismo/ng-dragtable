@@ -17,7 +17,7 @@
   "dependencies": {
     "jquery": "2.*",
     "jquery-ui": "^1.11.4",
-    "dragtable": "dpsxp/dragtable"
+    "dragtable": "pismo/dragtable"
   },
   "main": [
     "index.js",

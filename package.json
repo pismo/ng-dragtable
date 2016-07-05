@@ -8,7 +8,7 @@
   },
   "peerDependencies": {
     "angular": "^1.3.x",
-    "dragtable": "dpsxp/dragtable"
+    "dragtable": "pismo/dragtable"
   },
   "repository": {
     "type": "git",
