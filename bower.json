@@ -1,0 +1,26 @@
+{
+  "name": "ng-dragtable",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Daniel Paulino <danielpaulino030@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/pismo/ng-dragtable",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.*",
+    "jquery-ui": "^1.11.4",
+    "dragtable": "dpsxp/dragtable"
+  },
+  "main": [
+    "index.js",
+    "style.css"
+  ]
+}
