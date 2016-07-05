@@ -1,0 +1,23 @@
+{
+  "name": "ng-dragtable",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "angular": "^1.5.7",
+    "dragtable": "dpsxp/dragtable"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pismo/ng-dragtable.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pismo/ng-dragtable/issues"
+  },
+  "homepage": "https://github.com/pismo/ng-dragtable#readme"
+}
