@@ -13,7 +13,7 @@ Wrapper around [dragtable](https://github.com/pismo/dragtable)
 ## How to use
 ```js
 angular.module('myApp', ['dragtable']);
-
+```
 
 ```html
 ...
