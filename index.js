@@ -22,8 +22,10 @@
                     element.dragtable({
                         clickDelay: 100,
                         persistState: function () {
-                            const ths = element.find('thead tr th');
-                            const columns = ths.map((idx, el) => el.getAttribute('property-name'));
+                            var ths = element.find('thead tr th');
+                            var columns = ths.map((idx, el), function () {
+                                return el.getAttribute('property-name');
+                            });
 
                             $scope.$emit('dragtable:end', columns);
                         }
