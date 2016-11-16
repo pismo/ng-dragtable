@@ -8,7 +8,7 @@ Wrapper around [dragtable](https://github.com/pismo/dragtable)
 `bower install --save pismo/dragtable`
 
 ### npm
-`bower install --save pismo/dragtable`
+`npm install --save pismo/dragtable`
 
 ## How to use
 ```js
