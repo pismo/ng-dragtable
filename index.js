@@ -23,7 +23,7 @@
                         clickDelay: 100,
                         persistState: function () {
                             var ths = element.find('thead tr th');
-                            var columns = ths.map((idx, el), function () {
+                            var columns = ths.map(function(idx, el) {
                                 return el.getAttribute('property-name');
                             });
 
